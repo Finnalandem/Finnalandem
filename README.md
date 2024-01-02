@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Finnalandem
 - 👀 I’m interested in Gaming, Music, Video Game Dev
-- 🌱 I’m currently learning Unreal Engine 5
+- 🌱 I’m currently learning React/NEXT.js
 - 💞️ I’m looking to collaborate on an Open-World Survival Craft.
 - 📫 How to reach me - Finnalandem#2261 on Discord
 
